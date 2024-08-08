@@ -78,22 +78,13 @@ e uma preparação melhor das variáveis independentes do conjunto de
 dados.
 
 # Resultados
+
 ## Ensaio de classificação:
-### Sobre os dados de treinamento
-![classificacao_treinamento](
-img/ensaio_classificacao_dados_treinamento.png)
-### Sobre os dados de validação
-![classificacao_validacao](
-img/ensaio_classificacao_dados_validacao.png)
-### Sobre os dados de teste
-![classificacao_teste]( img/ensaio_classificacao_dados_teste.png)
+![classificacao](img/ensaio_classificacao.png)
+
 ## Ensaio de regressão:
-### Sobre os dados de treinamento
-![regressao_treinamento]( img/ensaio_regressao_dados_treinamento.png)
-### Sobre os dados de validação
-![regressao_validacao]( img/ensaio_regressao_dados_validacao.png)
-### Sobre os dados de teste
-![regressao_teste]( img/ensaio_regressao_dados_teste.png)
+![regressao]( img/ensaio_regressao.png)
+
 ## Ensaio de clusterização:
 ![clusterizacao_treinamento]( img/ensaio_clusterizacao.png)
 
